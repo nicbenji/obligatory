@@ -1,1 +1,1 @@
-PROJECT_NAME=obligatory
+PROJECT_NAME=Obligatory
